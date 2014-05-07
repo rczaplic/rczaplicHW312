@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homework 312</string>
+    <string name="title_article_detail">Article Detail</string>
+    <string name="article_icon">Article Icon</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_date">Article Date</string>
+
+</resources>
